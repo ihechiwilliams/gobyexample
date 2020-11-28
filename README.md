@@ -1,3 +1,3 @@
 # gobyexample
 
-## This is where My Go journy started
+## This is where My Go journey started
